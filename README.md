@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Saiteja
-- 👀 I’m interested in playing Video Games, reading Self-Help Books.
-- 🌱 I’m currently enhancing my technical knowledge in FrontEnd
-<!---
-saitejaseemala/saitejaseemala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there 👋, My Name is Saiteja
+#### I am a passionate Frontend Web Developer
+Highly organized and quick thinking individual who is currently exploring and enhancing his technical knowledge in Front end web development
+
+Skills: JavaScript / REACT / REDUX / HTML5 / CSS3 / REST / PostgreSQL / JAVA
+
+
+
+
+
+
