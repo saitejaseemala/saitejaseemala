@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saitejaseemala](https://github.com/saitejaseemala)
 
-- 💬 Ask me about **React, JavaScript, REST, HTML5, CSS3**
+- 💬 Ask me about **JAVA, Micro services, SpringBoot, Distributed Systems, SQL, NoSQL, JavaScript, REST, HTML5, CSS3**
 
 - 📫 How to reach me **saitejaseemala.2424@gmail.com**
 
